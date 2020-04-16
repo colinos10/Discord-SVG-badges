@@ -1,7 +1,7 @@
 # Discord-SVG-badges
 All of discord badges as SVG files
 
-PNG convertions are also available but it's not the original format
+PNG convertions are also available but they are very low res, so it's better to just convert them yourself to the resolution you want
 
 Server boosts are only availble for the 9 months version and less as i couldn't the version above. If you find them, please make a pull request.
 
